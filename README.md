@@ -18,3 +18,9 @@ The languages other than lua are languages I know and used before starting roblo
 <img align=left alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
 <img align=left alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />  
 <br />
+
+#
+
+### 🛠 What im working on!
+
+- Remaking my modular fps framework to make it more optimised and use type checking for even easier use for the public
