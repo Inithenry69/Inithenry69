@@ -12,7 +12,7 @@ I am an indie fullstack roblox developer. Every project I make I put my upmost p
 ---
 
 ### 🎒 Languages and tools
-The languages other than lua are languages I know and used before starting roblox development. These I am not as experienced in but I do know my way around.
+The languages other than lua are languages I know and used before starting roblox development. These I am as experienced in.
 
 <img align=left alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />  
 <img align=left alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
